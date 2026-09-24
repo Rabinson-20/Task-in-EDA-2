@@ -201,40 +201,6 @@ The main objectives of this project are:
 
 ---
 
-## 🚀 How to Run the Project
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
-
-### Step 2: Navigate to the Project
-
-```bash
-cd YOUR-REPOSITORY
-```
-
-### Step 3: Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Step 4: Start Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### Step 5: Open the Notebook
-
-Open the `.ipynb` file and run the cells sequentially.
-
-Make sure the CSV dataset is available in the same project directory as the notebook.
-
----
-
 ## 💡 Key Skills Demonstrated
 
 This project demonstrates practical knowledge of:
